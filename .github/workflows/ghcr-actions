@@ -1,4 +1,4 @@
-name: CI to GHCR
+name: CI to GHCR (Githib Container Registry)
 
 on:
   push:
